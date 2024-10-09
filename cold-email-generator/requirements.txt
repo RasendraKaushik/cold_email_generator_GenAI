@@ -1,0 +1,9 @@
+langchain==0.3.3
+langchain-community==0.3.2
+langchain-groq===0.2.0
+unstructured==0.14.6
+selenium==4.21.0
+chromadb==0.5.12
+streamlit==1.39.0
+pandas==2.2.3
+python-dotenv==1.0.1
